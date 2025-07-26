@@ -1,0 +1,9 @@
+torch>=1.12
+torchvision
+numpy
+pandas
+SimpleITK
+albumentations
+scikit-learn
+matplotlib
+streamlit
